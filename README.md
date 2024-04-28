@@ -1,4 +1,6 @@
-# house_price_prediction
+# Multi-task Learning for Predicting House Prices and House Category
+
+by: Sheida Majidi 
 
 The house price prediction project aimed to construct a robust multi-task learning model capable of performing both regression (predicting house prices) and classification (predicting house categories). This comprehensive analysis involved several crucial steps, from initial data exploration to hyperparameter tuning. Below is a detailed review of each step undertaken in the project.
 
