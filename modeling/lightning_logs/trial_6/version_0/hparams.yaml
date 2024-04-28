@@ -1,0 +1,4 @@
+initial_neurons: 539
+input_features: 82
+lr: 0.016749791904939398
+num_classes: 15
